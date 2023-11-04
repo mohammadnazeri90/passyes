@@ -1,7 +1,7 @@
 for github
 **4944
 
-// SPDX-License-Identifier: GPL-3.0
+// SDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.0;
 
 interface Token {
